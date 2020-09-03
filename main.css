@@ -63,3 +63,12 @@ table {
 .desc {
   font-size: 220%;
 }
+footer{
+  margin: -8px;
+  padding: 0;
+  color: #ffffff;
+  background-color: #483d8b;
+  height: 40px; 
+  padding: 20px 0;
+  text-align: center;
+}
