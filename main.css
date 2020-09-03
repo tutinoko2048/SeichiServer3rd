@@ -52,10 +52,14 @@ table {
 }
 
 .image1 {
-  width: 100%;
+  width: 98%;
   height: auto;
 }
 
+.image2 {
+  width: 50%;
+  height: auto;
+}
 .desc {
-  font-size: 200%;
-  }
+  font-size: 220%;
+}
