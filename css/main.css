@@ -63,7 +63,7 @@ table {
 .desc {
   font-size: 220%;
 }
-footer{
+footer {
   margin: -8px;
   padding: 0;
   color: #ffffff;
@@ -72,3 +72,18 @@ footer{
   padding: 20px 0;
   text-align: center;
 }
+
+.items {
+  image-rendering: pixelated;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  -ms-interpolation-mode: nearest-neighbor;
+  height: 80px; 
+  width: auto;
+  float: left;
+  }
+
+
+ .items-desc {
+  margin-left: 100px;
+  }
